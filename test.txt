@@ -1,1 +1,1 @@
-hello git  append once
+hello git  append once append twice
