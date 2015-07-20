@@ -1,1 +1,4 @@
-hello git  append once append twice
+hello git  
+append once 
+append twice
+append third
